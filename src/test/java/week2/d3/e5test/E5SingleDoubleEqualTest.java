@@ -26,7 +26,7 @@ public class E5SingleDoubleEqualTest {
     }
 
     @Test
-    void testPizzaParty() {
+    void testSingleDoubleEqual() {
         E5SingleDoubleEqual.main(new String[]{});
         String expectedOutput = "true" + System.lineSeparator() +
                 "false" + System.lineSeparator();
